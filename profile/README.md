@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TaqaPay/.github/assets/81046655/2c534d85-8faa-4933-955b-a08a786cc2fc" alt="TaqaPay Logo">
+  <img src="https://github.com/TaqaPay/.github/assets/81046655/790d68b7-62f5-4760-a64f-d2909d20cba0" alt="TaqaPay Logo">
 </p>
 
 # Welcome to TaqaPay!
